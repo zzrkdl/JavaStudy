@@ -1,0 +1,13 @@
+
+V
+java:S1854":Remove this useless assignment to local variable "class2".(φ―ε8›φπτ1
+W
+java:S1854":Remove this useless assignment to local variable "class1".(ψκ‘ÿ8φπτ1
+‚
+java:S1854"?Remove this useless assignment to local variable "publicClass".(Γκ¨Έ8ΥΉÿοτ1J$d0d5ea77-6ad8-451a-ad7e-efb10204f32f
+s
+java:S1481"0Remove this unused "publicClass" local variable.(Γκ¨Έ8Ψ‡€πτ1J$2a0f8e6d-9b1e-4e9d-80aa-bfd9917ec772
+H
+java:S1481"+Remove this unused "class1" local variable.(ψκ‘ÿ8φπτ1
+G
+java:S1481"+Remove this unused "class2" local variable.(φ―ε8φπτ1

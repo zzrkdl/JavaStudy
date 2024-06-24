@@ -1,0 +1,5 @@
+
+F
+java:S1905	")Remove this unnecessary cast to "Parent".(¾Â±8µñà°€2
+f
+java:S6201"DReplace this instanceof check and cast with 'instanceof Child child'(±ƒ—Ïıÿÿÿÿ8¶ñà°€2

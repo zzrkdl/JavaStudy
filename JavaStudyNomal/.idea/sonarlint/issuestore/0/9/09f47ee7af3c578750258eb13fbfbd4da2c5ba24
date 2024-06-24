@@ -1,0 +1,6 @@
+
+G	java:S106"+Replace this use of System.out by a logger.(ÄÌ€—8ˆÖµÀô1
+>
+java:S1116"Remove this empty statement.(ôŸìúÿÿÿÿ8ˆÖµÀô1
+^
+java:S1128"<Remove this unused import 'javax.swing.border.TitledBorder'.(Ê€Ä“ÿÿÿÿÿ8‰ÖµÀô1

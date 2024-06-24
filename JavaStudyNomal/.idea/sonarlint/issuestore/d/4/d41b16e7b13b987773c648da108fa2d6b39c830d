@@ -1,0 +1,16 @@
+
+
+java:S1192"MDefine a constant instead of duplicating this literal "dataB.value=" 3 times.(¿î¾²8ŒŸ´Éò1J$94a5f7b4-30af-4125-825b-91f63bd66828
+•
+java:S1192"MDefine a constant instead of duplicating this literal "dataA.value=" 3 times.(¿º»úúÿÿÿÿ8ŒŸ´Éò1J$fed91357-3616-4f9f-961e-5859a43bc2db
+r	java:S106
+"+Replace this use of System.out by a logger.(Á£Äøÿÿÿÿ8›¡±Éò1J$4c24dcf2-94e7-47ff-a7a2-d99933473c12
+m	java:S106"+Replace this use of System.out by a logger.(ŸãŒş8›¡±Éò1J$7cd73ada-1d80-403f-9736-1d649af3dec8
+r	java:S106"+Replace this use of System.out by a logger.(¿º»úúÿÿÿÿ8›¡±Éò1J$3af63a29-eb16-4a5f-b941-d6cb4c2b6f67
+m	java:S106"+Replace this use of System.out by a logger.(¿î¾²8›¡±Éò1J$c6cb17ed-1e68-42de-8ebe-5f497b248509
+m	java:S106"+Replace this use of System.out by a logger.(€åÍà8›¡±Éò1J$a93682f2-3a83-47eb-8fa7-0c1fe6f09a36
+r	java:S106"+Replace this use of System.out by a logger.(¿º»úúÿÿÿÿ8ÙÅ±Éò1J$29e66855-47c5-4832-b1e3-2c8cf7bab877
+m	java:S106"+Replace this use of System.out by a logger.(¿î¾²8ÙÅ±Éò1J$5a08e624-d4e7-49be-89eb-842f0636bda8
+m	java:S106"+Replace this use of System.out by a logger.(‹ÚùÏ8’Ÿ´Éò1J$54541c07-ec1d-4643-97db-4b3f137172fd
+r	java:S106"+Replace this use of System.out by a logger.(¿º»úúÿÿÿÿ8“Ÿ´Éò1J$dd72b2d4-2d57-4e0d-ae1e-f543e2f24623
+m	java:S106"+Replace this use of System.out by a logger.(¿î¾²8“Ÿ´Éò1J$cf64f1a0-37af-4efc-ab09-2e1a538dd748

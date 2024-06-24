@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(›±Íİüÿÿÿÿ8Ó²¬ù1J$94b81ea0-224e-4a13-a941-970f7a036983
+|
+java:S1854"9Remove this useless assignment to local variable "data3".(£ó“½8Ù²¬ù1J$1f5105fe-5660-426f-8474-599f8eb117a0
+
+java:S1854"9Remove this useless assignment to local variable "data2".(˜‘°êûÿÿÿÿ8Ù²¬ù1J$86ae6be5-bb7c-4f7a-b870-8f7c4df34be3
+|
+java:S1854"9Remove this useless assignment to local variable "data1".(¬Âşê8Ù²¬ù1J$6754ac3b-3551-4995-a03e-dd4a24a9337d
+m
+java:S1481"*Remove this unused "data1" local variable.(¬Âşê8Ú²¬ù1J$1f851ba0-56d5-4cdc-9c1e-ca8012a7e6a7
+r
+java:S1481"*Remove this unused "data2" local variable.(˜‘°êûÿÿÿÿ8Ú²¬ù1J$0e30a1ab-6888-435f-9cf0-174ace44e3f6
+m
+java:S1481"*Remove this unused "data3" local variable.(£ó“½8Û²¬ù1J$17f7dae1-87a2-48dd-849f-4e7a2a30b04b
+}
+java:S2209"5Change this instance-reference to a static reference.(²·¹ëıÿÿÿÿ8¬‡Ş¢ú1J$31f2d32c-89fd-446c-94ee-044ade3d94ef

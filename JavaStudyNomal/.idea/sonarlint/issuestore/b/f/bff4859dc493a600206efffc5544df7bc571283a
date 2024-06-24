@@ -1,0 +1,11 @@
+
+
+java:S1192"KDefine a constant instead of duplicating this literal " ë‚˜ì´ : " 3 times.(îÎï¶8ÁÆ„Äò1J$38104c82-f53c-431e-85e0-44f836c19add
+
+java:S1192"KDefine a constant instead of duplicating this literal " ì ìˆ˜ : " 3 times.(îÎï¶8ÁÆ„Äò1J$91ae403c-6a35-4051-8ea7-54842a393ef9
+
+java:S1192"JDefine a constant instead of duplicating this literal "ì´ë¦„ : " 3 times.(îÎï¶8ÁÆ„Äò1J$6fb179f5-4e29-4eee-a1a7-85ce8831084f
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ş§Ûàüÿÿÿÿ8àØƒÄò1J$0d4927f3-c4c1-458a-b304-c68a387dc190
+m	java:S106"+Replace this use of System.out by a logger.(îÎï¶8ëØƒÄò1J$bf3f178a-5cf1-4115-8128-a54474cb37c6
+r	java:S106"+Replace this use of System.out by a logger.(âÄà¶şÿÿÿÿ8ëØƒÄò1J$55c4bf29-1f96-433e-b389-7094ad719b58
+r	java:S106"+Replace this use of System.out by a logger.(âÄà¶şÿÿÿÿ8ÓÆ„Äò1J$bc0311c4-2f40-4495-ad7a-9659a46095f9

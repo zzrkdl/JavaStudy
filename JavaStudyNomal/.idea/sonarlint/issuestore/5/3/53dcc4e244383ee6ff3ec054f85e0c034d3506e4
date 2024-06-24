@@ -1,0 +1,8 @@
+
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(øŒ’¨8œµä÷ó1J$a12daf8d-56aa-438a-8b18-e8c42fc18e70
+‚
+java:S1854":Remove this useless assignment to local variable "square".(ï¼±£ûÿÿÿÿ8Ÿµä÷ó1J$88ef65aa-24ac-4dad-bd1c-18ab0eb48ee5
+m	java:S106"+Replace this use of System.out by a logger.(ï¸‹Å8¡µä÷ó1J$427d01bf-a585-4c6d-b57f-a505bd3321e2
+r	java:S106"+Replace this use of System.out by a logger.(·Êûúüÿÿÿÿ8¡µä÷ó1J$468ed573-6cb9-4dd0-8151-5bcf02349d1b
+s
+java:S1481"+Remove this unused "square" local variable.(ï¼±£ûÿÿÿÿ8¢µä÷ó1J$f13b464c-42a0-4c55-8a87-846b3ef9f30d

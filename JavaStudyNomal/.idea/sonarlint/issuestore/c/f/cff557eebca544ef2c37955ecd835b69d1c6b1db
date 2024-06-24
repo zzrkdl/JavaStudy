@@ -1,0 +1,17 @@
+
+ 
+java:S1192"]Define a constant instead of duplicating this literal "ìŒì•… í”Œë ˆì´ì–´ ë³¼ë¥¨: " 3 times.(€É¯¯8„ŞšÓò1J$5d240fde-4aa1-4136-8e24-c6bfe51cbae2
+œ	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¿™ü±8†ŞšÓò1J$40ec12ad-baa4-4244-9d8d-12ba92bbd0e2
+†
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ì¡ãã8‰ŞšÓò1J$e0e2de56-086b-4ef3-a7ae-2b51042d6006
+U
+java:S1854"8Remove this useless assignment to local variable "isOn".(Âƒ’ 8×ÖœÓò1
+r	java:S106
+"+Replace this use of System.out by a logger.(ßìŞµüÿÿÿÿ8‹ŞšÓò1J$8308ef03-3727-429f-b5f2-22a6055aea7d
+m	java:S106"+Replace this use of System.out by a logger.(€É¯¯8‹ŞšÓò1J$63b20c75-bf4c-4e57-9d0b-2b25a14855f6
+m	java:S106"+Replace this use of System.out by a logger.(€É¯¯8ŒŞšÓò1J$9b764c20-f875-45ce-82e1-af08b6c11db9
+m	java:S106"+Replace this use of System.out by a logger.(€É¯¯8ŒŞšÓò1J$59721a4b-68f8-4d9a-8e0f-c1e23d48ba46
+m	java:S106"+Replace this use of System.out by a logger.(¯œ˜Ù8ŒŞšÓò1J$d1be4641-1c3c-487b-a46f-267ef92404bb
+m	java:S106"+Replace this use of System.out by a logger.(“å×’8ŞšÓò1J$a17af846-7ee7-423a-91af-224d4d14f08f
+m	java:S106"+Replace this use of System.out by a logger.(ïĞ·İ8ÜÑ›Óò1J$7436d889-3458-4fbd-9908-905328a3c7b3
+L	java:S106"+Replace this use of System.out by a logger.(Ğ•Úúıÿÿÿÿ8ÙÖœÓò1
